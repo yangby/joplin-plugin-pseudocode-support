@@ -6,6 +6,12 @@ Typesets pseudocode beautifully in [Joplin].
 
 [License]: https://img.shields.io/github/license/yangby/joplin-plugin-pseudocode-support.svg
 
+## References
+
+- [Joplin: Getting started with plugin development](https://joplinapp.org/api/get_started/plugins/)
+- [SaswatPadhi/pseudocode.js](https://github.com/SaswatPadhi/pseudocode.js)
+- [CodeMirror: Language modes](https://codemirror.net/5/mode/)
+
 ## License
 
 Licensed under [GNU AGPLv3].

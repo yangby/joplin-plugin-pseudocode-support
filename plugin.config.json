@@ -1,3 +1,6 @@
 {
-	"extraScripts": []
+    "extraScripts": [
+        "pseudocode_viewer.ts",
+        "pseudocode_editor.ts"
+    ]
 }
