@@ -1,0 +1,13 @@
+{
+    "id": "org.yangby.joplin.plugins.pseudocode-support",
+    "manifest_version": 1,
+    "name": "Pseudocode Support",
+    "version": "0.1.0",
+    "app_min_version": "2.8",
+    "description": "Typesets pseudocode beautifully in Joplin.",
+    "author": "YangBy <yby@yangby.org>",
+    "keywords": ["pseudocode"],
+    "homepage_url": "https://github.com/yangby/joplin-plugin-pseudocode-support",
+    "repository_url": "https://github.com/yangby/joplin-plugin-pseudocode-support",
+    "categories": ["viewer", "integrations"]
+}
