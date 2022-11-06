@@ -6,6 +6,10 @@ Typesets pseudocode beautifully in [Joplin].
 
 [License]: https://img.shields.io/github/license/yangby/joplin-plugin-pseudocode-support.svg
 
+## Features
+
+- Typesets pseudocode beautifully.
+
 ## References
 
 - [Joplin: Getting started with plugin development](https://joplinapp.org/api/get_started/plugins/)
